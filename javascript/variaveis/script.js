@@ -1,1 +1,0 @@
-console.log('Eu  burra, mas não sou burra o suficiente para não saber o que é um console.log');
